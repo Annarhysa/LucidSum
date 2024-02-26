@@ -1,2 +1,2 @@
-# Humanized-Summarizer
-Making the summary produced by ML model more humanly
+# LucidSum
+Making the summary produced by the ML model more humanly
